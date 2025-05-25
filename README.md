@@ -1,6 +1,6 @@
 # 🧠 Bagging CNN Classifier for Text Classification
 
-This repository contains a notebook implementation of a **bagging ensemble of CNN models** for text classification. The model is trained and evaluated using majority voting across multiple CNN classifiers to improve robustness and generalization.
+This repository contains a notebook implementation of a **bagging ensemble of CNN models** for image classification. The model is trained and evaluated using majority voting across multiple CNN classifiers to improve robustness and generalization.
 
 ---
 
